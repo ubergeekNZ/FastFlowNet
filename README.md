@@ -1,3 +1,5 @@
+# Modified to be able to work with the latest pytorch and cuda.
+
 # FastFlowNet: A Lightweight Network for Fast Optical Flow Estimation
 The official PyTorch implementation of [FastFlowNet](https://arxiv.org/abs/2103.04524) (ICRA 2021).
 
